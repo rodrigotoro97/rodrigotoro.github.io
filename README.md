@@ -1,4 +1,4 @@
-[index (1).html](https://github.com/user-attachments/files/22454817/index.1.html)# rodrigotoro.github.io/[Uploading index <!DOCTYPE html>
+ rodrigotoro.github.io/[Uploading index <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
